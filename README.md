@@ -50,6 +50,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/meshishu/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/meshishu/LeetCode/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/meshishu/LeetCode/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/meshishu/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/meshishu/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
