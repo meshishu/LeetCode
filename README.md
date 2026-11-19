@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/meshishu/LeetCode/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/meshishu/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/meshishu/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/meshishu/LeetCode/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/meshishu/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
