@@ -38,4 +38,16 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/meshishu/LeetCode/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/meshishu/LeetCode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/meshishu/LeetCode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/meshishu/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
