@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/meshishu/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/meshishu/LeetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/meshishu/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
