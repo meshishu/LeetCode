@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/meshishu/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/meshishu/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meshishu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/meshishu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/meshishu/LeetCode/tree/master/0704-binary-search) |
@@ -21,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/meshishu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/meshishu/LeetCode/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -30,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/meshishu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/meshishu/LeetCode/tree/master/0344-reverse-string) |
 ## String
@@ -96,4 +99,12 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/meshishu/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
