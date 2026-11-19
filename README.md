@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meshishu/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/meshishu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/meshishu/LeetCode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/meshishu/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meshishu/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/meshishu/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
