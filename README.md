@@ -109,4 +109,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/meshishu/LeetCode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/meshishu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/meshishu/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
